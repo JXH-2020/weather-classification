@@ -17,7 +17,7 @@ data/test_data
 ````
 ### 可视化界面：  
 位置在 “middle/history/”中，如：  
-![weather.png](middle/history/weather-2022-10-06 12.19.07.716666.png)  
+![weather.png](middle/visual.png)  
 
 ### 最后模型的精确度：
 ![acc.png](middle/acc.png)
